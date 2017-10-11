@@ -1,0 +1,10 @@
+eth.getBalance(eth.accounts[0]);
+web3.fromWei(eth.getBalance(eth.accounts[0]))
+eth.accounts.length
+admin.nodeInfo
+admin.peers
+admin.nodeInfo
+admin.peers
+debug.verbosity(4)
+debug.
+eth.accounts[0]
