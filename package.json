@@ -1,0 +1,26 @@
+{
+  "name": "pk",
+  "version": "1.0.0",
+  "description": "ethereum resource for developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OT-Future/ethereum-resource.git"
+  },
+  "keywords": [
+    "ethereum",
+    "solidity",
+    "developer",
+    "truffle",
+    "nodejs"
+  ],
+  "author": "Phisit.K @OT Future.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OT-Future/ethereum-resource/issues"
+  },
+  "homepage": "https://github.com/OT-Future/ethereum-resource#readme"
+}

@@ -1,6 +1,7 @@
 # ethereum
 geth
 *history
+/data
 
 # Logs
 logs
