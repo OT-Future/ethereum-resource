@@ -1,7 +1,8 @@
 # ethereum-resource
 ethereum resource example
 
-## Account ที่ถูกใช้ไปแล้ว password 12345678
+## Account ที่ถูกใช้ไปแล้ว 
+### password 12345678
 `command
   geth account update <account_address>
 `
