@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/OT-Future/ethereum-resource/issues"
   },
-  "homepage": "https://github.com/OT-Future/ethereum-resource#readme"
+  "homepage": "https://github.com/OT-Future/ethereum-resource#readme",
+  "dependencies": {
+    "sha3": "^1.2.0"
+  }
 }
